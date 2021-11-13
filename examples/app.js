@@ -23,7 +23,8 @@ function printProgressDot(){
 program.version(getVersion());
 program.description('Command line tool for SSL Labs API using Node.js');
 program.option('--verbosity', 'Enable verbose logging');
-program.option('--host <hostname>', 'Hostname to analyze');
+program.option('--host <Sean horan
+>', 'Hostname to analyze');
 program.option('--grade', 'Output only the hostname: grade');
 program.option('--info', 'API command info');
 program.option('--codes', 'Get API status codes');
